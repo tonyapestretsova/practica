@@ -633,8 +633,9 @@ z-index: 3;
   width: 450%;
 }
 
-.tor {
-    background-image: url('tor.jpg');
+.lampatorsher
+ {
+    background-image: url('lampatorsher.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     width: 289px;
@@ -713,8 +714,8 @@ z-index: 3;
     z-index: 2;
 }
 
-.shar {
-    background-image: url('shar.jpg');
+.lustrashar {
+    background-image: url('lustrashar.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     width: 355px;
@@ -835,8 +836,8 @@ z-index: 3;
     z-index: 2;
 }
 
-.covana {
-    background-image: url('covana.jpg');
+.lustrakrug {
+    background-image: url('lustrakrug.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     width: 301px;
@@ -915,8 +916,8 @@ z-index: 3;
     z-index: 2;
 }
 
-.pauk {
-    background-image: url('pauk.jpg');
+.lustraderev {
+    background-image: url('lustraderev.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     width: 321px;
@@ -1068,8 +1069,8 @@ z-index: 3;
   width: 670%;
 }
 
-.tor1 {
-    background-image: url('tor.jpg');
+.lampatorsher1 {
+    background-image: url('lampatorsher.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     width: 289px;
@@ -1169,8 +1170,8 @@ z-index: 3;
 
 }
 
-.shar1 {
-    background-image: url('shar.jpg');
+.lustrashar1 {
+    background-image: url('lustrashar.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     width: 355px;
@@ -1270,8 +1271,8 @@ z-index: 3;
 
 }
 
-.covana1 {
-    background-image: url('covana.jpg');
+.lustrakrug1 {
+    background-image: url('lustrakrug.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     width: 301px;
@@ -1371,8 +1372,8 @@ z-index: 3;
 
 }
 
-.pauk1 {
-    background-image: url('pauk.jpg');
+.lustraderev1 {
+    background-image: url('lustraderev.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     width: 321px;
@@ -1505,8 +1506,8 @@ z-index: 3;
 
 
 
-.skandiv {
-    background-image: url('skandiv.jpg');
+.skandinavskyi {
+    background-image: url('skandinavskyi.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     width: 344px;
@@ -1591,8 +1592,8 @@ z-index: 3;
   width: 200%;
 }
 
-.prova {
-    background-image: url('prova.jpg');
+.provance {
+    background-image: url('provance.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     width: 344px;
@@ -1634,8 +1635,8 @@ z-index: 3;
   width: 87%;
 }
 
-.sovr {
-    background-image: url('sovr.jpg');
+.sovremennyi {
+    background-image: url('sovremennyi.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     width: 344px;
@@ -2001,7 +2002,7 @@ z-index: 3;
   width: 50%;
 }
 
-.torsher {
+.divan {
     width: 353px;
     height: 353px;
     position: absolute;
